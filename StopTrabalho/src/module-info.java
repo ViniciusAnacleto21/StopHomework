@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Vinicius
+ *
+ */
+module StopTrabalho {
+}
